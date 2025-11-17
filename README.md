@@ -17,3 +17,15 @@ Admission vs. Discharge: Nearly 50% of patients were admitted.
 DASHBOARD:
 
 https://github.com/NaikGuru/Data-Analysis-Hospital-System/blob/main/snapshot%20of%20dashboard.jpeg
+
+https://github.com/NaikGuru/Data-Analysis-Hospital-System/blob/main/snapshot2.jpeg
+
+https://github.com/NaikGuru/Data-Analysis-Hospital-System/blob/main/snapshot3.jpeg
+
+⚒️ Tools Used
+
+✅ MS-Excel
+
+✅ Power-BI
+
+✅ Microsoft (ppt)
